@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.click-item{
+  display: inline-block;
+  margin:5px;
+}
+
+
+#main {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+}
+
+.image {
+  border-style: solid;
+  border-width: 8px; 
+  border-color: brown;
+}
